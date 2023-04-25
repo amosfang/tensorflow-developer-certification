@@ -1,1 +1,1 @@
-# tensorflow-developer-certification
+# Tensorflow Developer Certification Scholarship
